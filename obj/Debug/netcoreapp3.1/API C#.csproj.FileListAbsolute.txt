@@ -1,0 +1,35 @@
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.exe
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.deps.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.runtimeconfig.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.runtimeconfig.dev.json
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\API C#.pdb
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Meus Projetos\API C#\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.csprojAssemblyReference.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.AssemblyInfoInputs.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.AssemblyInfo.cs
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.MvcApplicationPartsAssemblyInfo.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.RazorTargetAssemblyInfo.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.csproj.CopyComplete
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\staticwebassets\API C#.StaticWebAssets.Manifest.cache
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\staticwebassets\API C#.StaticWebAssets.xml
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.dll
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.pdb
+D:\Meus Projetos\API C#\obj\Debug\netcoreapp3.1\API C#.genruntimeconfig.cache
